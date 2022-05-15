@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2134289653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcc5c9c41052a0e34d508aeb6b288ebb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Artifacts/infestorEnabled.png
+- Assets/Artifacts/infestorDisabled.png
+- Assets/Artifacts/nullifyEnabled.png
+- Assets/Artifacts/nullifyDisabled.png
+Dependencies: []
